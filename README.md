@@ -20,5 +20,7 @@ quality sound-effects in the companion CD to
 ## License
 
 Tik Tok Tank is no longer being maintained, but is released under the 
-[MIT License][MIT]. Feel free to reuse any of the code or graphics in your own 
+[MIT License][License]. Feel free to reuse any of the code or graphics in your own 
 projects, but attribution is always appreciated!
+
+[License]: https://github.com/akalicki/Tik-Tok-Tank/blob/master/LICENSE
