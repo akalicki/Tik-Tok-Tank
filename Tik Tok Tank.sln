@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tik Tok Tank", "Tik Tok Tank\Tik Tok Tank\Tik Tok Tank.csproj", "{51EE4B34-D651-4B01-8740-85675AE6C8B0}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Tik Tok TankContent", "Tik Tok Tank\Tik Tok TankContent\Tik Tok TankContent.contentproj", "{ABA4D64F-CBBC-4AF6-BC23-0D9D220FF2C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51EE4B34-D651-4B01-8740-85675AE6C8B0}.Debug|x86.ActiveCfg = Debug|x86
+		{51EE4B34-D651-4B01-8740-85675AE6C8B0}.Debug|x86.Build.0 = Debug|x86
+		{51EE4B34-D651-4B01-8740-85675AE6C8B0}.Release|x86.ActiveCfg = Release|x86
+		{51EE4B34-D651-4B01-8740-85675AE6C8B0}.Release|x86.Build.0 = Release|x86
+		{ABA4D64F-CBBC-4AF6-BC23-0D9D220FF2C6}.Debug|x86.ActiveCfg = Debug|x86
+		{ABA4D64F-CBBC-4AF6-BC23-0D9D220FF2C6}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
