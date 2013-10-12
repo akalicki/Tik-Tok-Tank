@@ -6,7 +6,7 @@ features both single-player and multiplayer modes, and tanks can be
 controlled using the keyboard or XBOX 360 controllers. Computer players 
 feature very limited artificial intelligence and my own modified 
 implementation of the 
-<a href="http://en.wikipedia.org/wiki/A*_search_algorithm">A<sup>*</sup> search algorithm</a> 
+<a href="http://en.wikipedia.org/wiki/A*_search_algorithm">A* search algorithm</a> 
 to help them navigate through the maze of blocks and find the human player 
 using the shortest path possible.
 
